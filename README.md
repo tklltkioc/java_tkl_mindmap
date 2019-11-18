@@ -1,7 +1,7 @@
 # java_tkl_mindmap
 java相关思维导图
 
-1、Java基础、并发；
+1、Java多线程并发；
 
 2、计算机基础知识；
 
